@@ -1,0 +1,23 @@
+.section_wrapper {
+  margin: 56px 48px;
+}
+.section1_info {
+  padding: 32px 0;
+}
+.section1 {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.section1 h1 {
+  font-size: 48px;
+  margin-top: 16px;
+  /* margin: 32px 0; */
+}
+.section1 p {
+  font-size: 32px;
+  line-height: 1.2;
+  margin: 16px 0;
+  padding: 16px 0;
+}

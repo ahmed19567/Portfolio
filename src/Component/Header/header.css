@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 48px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+nav h3 {
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: 2px;
+}
+.nav_info {
+  display: flex;
+}
+nav ul {
+  font-size: 18px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav ul li {
+  margin-right: 12px;
+  justify-content: center;
+}
