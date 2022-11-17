@@ -1,0 +1,47 @@
+.work_container {
+  margin: 120px 48px;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+}
+.work_container h1 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 16px 0;
+}
+.project_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+.projects {
+  margin: 3%;
+  width: 27%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+}
+.project_pic {
+  margin: 12px 0;
+}
+.project_title {
+  font-size: 32px;
+  margin: 12px 0;
+}
+.project_detail {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 16px 0;
+}
+.visit {
+  display: flex;
+  column-gap: 32px;
+  margin: 16px 0;
+}
+.visit a {
+  font-size: 14px;
+  font-weight: 700;
+}

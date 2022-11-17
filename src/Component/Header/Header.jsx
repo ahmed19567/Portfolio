@@ -7,9 +7,9 @@ function Header() {
 
         <div class="nav_info">
             <ul>
-                <li>Porfolio</li>
-                <li>About</li>
-                <li>Contact</li>
+                <a href="#portfolio"><li>Porfolio</li></a>
+                <a href="#about"><li>About</li></a>
+                <a href="#contact"><li>Contact</li></a>
             </ul>
         </div>
     </nav>

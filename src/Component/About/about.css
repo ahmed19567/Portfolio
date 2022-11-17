@@ -1,0 +1,33 @@
+.about-container-content {
+  margin: 120px 0;
+  padding: 1rem;
+  width: 80%;
+}
+.about-container-content > h1 {
+  font-size: 48px;
+  margin: 16px 0;
+}
+.about_me_intro {
+  margin: 16px 0;
+  font-size: 32px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+.about_me_detail {
+  margin: 16px 0 32px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.about_me_tech_title {
+  margin: 16px 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.expertise {
+  margin: 16px 0;
+  font-size: 18px;
+  font-weight: 700;
+  padding-left: 16px;
+  border-left: 1px solid black;
+}
