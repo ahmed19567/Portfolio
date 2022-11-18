@@ -11,8 +11,8 @@ function Body() {
         <section class="section1_info">
             <h1>Ahmed Abdi</h1>
             <p>I am a software Engieer based in Minneapolis.
-                I specalize in Javascript, Java, Node-Js, React
-                HTML, MongoDb
+                I specalize in Javascript  React
+                HTML,CSS, MongoDb
             </p>
                <a href="https://github.com/ahmed19567" className='github'>
                 <FaGithub/>
