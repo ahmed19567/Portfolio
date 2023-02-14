@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub } from 'react-icons/fa';
+import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import computer from './computer.png'
 import './body.css'
 
@@ -14,9 +14,15 @@ function Body() {
                 I specalize in Javascript  React
                 HTML,CSS, MongoDb
             </p>
-               <a href="https://github.com/ahmed19567" className='github'>
+             <div className="iconlink">
+             <a href="https://github.com/ahmed19567" className='github'>
                 <FaGithub/>
                </a>
+               <a href="https://linkedin.com/in/ahmed-abdi-ahmed19567" className='linkedin'>
+                <FaLinkedinIn/>
+               </a>
+             </div>
+              
          </section>
         <section class="section1_icon">
             

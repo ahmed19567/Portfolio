@@ -25,7 +25,12 @@
   margin: 16px 0;
   padding: 16px 0;
 }
-.github {
+.iconlink{
+  display: flex;
+  column-gap: 1em;
+  background-color: white;
+}
+.github, .linkedin {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -35,7 +40,7 @@
   /* color: #7f7def; */
   columns: #6dc4d5;
   box-shadow: 0 5px 15px -5px rgb(0 0 0 / 44%);
-  box-shadow: rgba(127, 125, 239, 0.3) 0px 7px 29px 0px;
+  box-shadow: rgba(127, 125, 239, 0.1) 0px 7px 29px 0px;
   padding: 0 20px;
   border-radius: 30px;
   margin: 16px 0;
